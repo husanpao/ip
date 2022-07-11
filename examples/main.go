@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/fufuok/myip"
+	"github.com/husanpao/ip"
 )
 
 var (
